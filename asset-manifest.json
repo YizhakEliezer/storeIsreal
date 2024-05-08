@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/storeIsreal/static/css/main.2b2a4289.css",
+    "main.js": "/storeIsreal/static/js/main.22672e01.js",
+    "static/media/israel.mp4": "/storeIsreal/static/media/israel.354102942bd091f3cdde.mp4",
+    "index.html": "/storeIsreal/index.html",
+    "main.2b2a4289.css.map": "/storeIsreal/static/css/main.2b2a4289.css.map",
+    "main.22672e01.js.map": "/storeIsreal/static/js/main.22672e01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b2a4289.css",
+    "static/js/main.22672e01.js"
+  ]
+}
