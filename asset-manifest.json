@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/storeIsreal/static/css/main.68b6bd50.css",
-    "main.js": "/storeIsreal/static/js/main.ac742073.js",
+    "main.js": "/storeIsreal/static/js/main.22ab1aae.js",
     "static/media/israel.mp4": "/storeIsreal/static/media/israel.354102942bd091f3cdde.mp4",
     "static/media/logoArrow.png": "/storeIsreal/static/media/logoArrow.6975a8b5485c32f24745.png",
     "index.html": "/storeIsreal/index.html",
     "static/media/arrow.svg": "/storeIsreal/static/media/arrow.1e849faa8b4424a4aee765d3db4a436a.svg",
     "main.68b6bd50.css.map": "/storeIsreal/static/css/main.68b6bd50.css.map",
-    "main.ac742073.js.map": "/storeIsreal/static/js/main.ac742073.js.map"
+    "main.22ab1aae.js.map": "/storeIsreal/static/js/main.22ab1aae.js.map"
   },
   "entrypoints": [
     "static/css/main.68b6bd50.css",
-    "static/js/main.ac742073.js"
+    "static/js/main.22ab1aae.js"
   ]
 }
